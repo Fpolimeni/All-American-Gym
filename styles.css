@@ -1,0 +1,19 @@
+html {font-size: 1rem;}
+
+body{
+  font-weight: 400;
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  color: #110101;
+}
+
+.h2, .h6, .h5, h2, h6, h5 {
+    line-height: 1.6;
+    font-weight:600;
+}
+
+section{
+  padding: 10%;
+}
+
